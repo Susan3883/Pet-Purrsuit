@@ -1,7 +1,7 @@
 
 # Pet Purrsuit
 This is a cozy game where you can take care of an adorable pet!
-The walk-through which demonstrates how the game plays and operates can be accessed through this link [_here_](https://www.example.com).
+The walk-through which demonstrates how the game plays and operates can be accessed through this link [_here_](https://web.microsoftstream.com/video/7d9a2ff9-cea7-45f3-9c53-ff7f0f5990ed).
 
 ## Table of Contents
 * [General Info](#general-information)
