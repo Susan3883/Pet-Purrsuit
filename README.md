@@ -32,7 +32,7 @@ List the ready features here:
 ## Setup
 Please download the file titled 'Pet Purrsuit.sb3'. 
 
-From there, log onto the website, 'Scratch', locate create and you will be directed to the projet creation menu.
+From there, hop over to the website, [_Scratch_](https://scratch.mit.edu/), locate 'create' and you will be directed to the projet creation menu.
 
 In the menu, find 'file' in the top right-hand corner and click 'load from your computer' and select the previously downloaded 'Pet Purrsuit.sb3' file.
 
