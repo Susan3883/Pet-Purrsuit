@@ -9,18 +9,10 @@ The walk-through which demonstrates how the game plays and operates can be acces
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
-
 
 ## General Information
 This is a point-and-click style of game where you, the player, can take care of a pet. Explore the activities your pet can perform and earn HP (Happiness Points) in making sure your pet is satisfied.
-
-
 
 ## Technologies Used
 - Scratch: The block-based programming language enabled an interactive and fun approach to coding.
@@ -32,57 +24,22 @@ List the ready features here:
 - Earn HP (Happiness Points)! Be rewarded with in-game currency when engage with your pet.
 - Exchange HP for goods! Use HP as a currency to purchase new backgrounds.
 
-
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/117321689/199624779-436664f6-f2b2-4224-8f27-c31bd9bdf9ac.png)
 ![image](https://user-images.githubusercontent.com/117321689/199624726-bc961ec0-352a-4046-ac7d-6840cf395754.png)
 
 
-
-
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-Please download the file titled 'Pet Purrsuit.sb3'
+Please download the file titled 'Pet Purrsuit.sb3'. 
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+From there, log onto the website, 'Scratch', locate create and you will be directed to the projet creation menu.
 
+In the menu, find 'file' in the top right-hand corner and click 'load from your computer' and select the previously downloaded 'Pet Purrsuit.sb3' file.
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+Finally, Pet Pursuit will load and you can enjoy! Alternatively, you can access the link directy to the game, [_here._](https://scratch.mit.edu/projects/753492637)
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+The coding project status is currently in progress. The game was initially planned to function as time management application with game-like features. As of this moment, the games aspects have been implement through the coding but the time-management aspect will need to be developed.
 
+Despite, this the game is stable, with no current bugs. I hope players will enjoy what I've created as I certainly have strenghtened my overall coding literacy and now have a keen insterest in programming languages and game development. 
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
