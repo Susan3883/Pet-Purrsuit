@@ -41,5 +41,7 @@ Finally, Pet Pursuit will load and you can enjoy! Alternatively, you can access 
 ## Project Status
 The coding project status is currently in progress. The game was initially planned to function as time management application with game-like features. As of this moment, the games aspects have been implement through the coding but the time-management aspect will need to be developed.
 
-Despite, this the game is stable, with no current bugs. I hope players will enjoy what I've created as I certainly have strenghtened my overall coding literacy and now have a keen insterest in programming languages and game development. 
+Additionally, visual assets I have sourced and implemented into this game, can be located under the branch titled, 'Visual Assets'. These assets have been edited by myself through procreate to ensure better visual integration in my game. Also in the 'Visual Assets' branch, I have also included a file that credits where all the original assets were downloaded from.
+
+Overall, the current game is stable, with no current bugs. I hope players will enjoy what I've created as I certainly have strenghtened my overall coding literacy and now have a keen insterest in programming languages and game development. 
 
